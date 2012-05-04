@@ -5,17 +5,10 @@ styles/reset.css
 styles/style.css
 
 support/numeric.js
-support/three.js
-support/three-detector.js
-support/three-frame.js
-support/three-stats.js
-support/three-trackball.js
 
-node_modules/simplexn.js/lib/simplexn.js
-node_modules/f.js/lib/f.js
 
-lib/plasm.js
-lib/plasm-fun.js
+lib/viewer.min.js
+lib/plasm.min.js
 
 index.html
 
